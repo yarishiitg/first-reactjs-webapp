@@ -585,7 +585,7 @@ var App = function App(props) {
   // Change the query to one of your interests
 
 
-  var _useState3 = useState("vampires"),
+  var _useState3 = useState("cats"),
       _useState4 = _slicedToArray(_useState3, 2),
       query = _useState4[0],
       setQuery = _useState4[1];
@@ -668,7 +668,7 @@ var App = function App(props) {
 };
 
 // CHALLENGE: add your own name and emoji to the website
-_reactDom2.default.render(_react2.default.createElement(App, { name: 'Per', emoji: '\uD83E\uDDDB\u200D\u2642\uFE0F' }), document.getElementById("root"));
+_reactDom2.default.render(_react2.default.createElement(App, { name: 'Per', emoji: '\uD83D\uDC08' }), document.getElementById("root"));
 
 /***/ }),
 /* 7 */

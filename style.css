@@ -39,17 +39,17 @@ body {
     /*
     CHALLENGE: change the background to one you like
     */
-    --background-image: var(--forest);
+    --background-image: var(--sweets);
     
     /*
     CHALLENGE: change the main color to one you like!
     */
-    --main-color: var(--blood);
+    --main-color: var(--nightsky);
     
      /* 
     CHALLENGE: change the font to one you think is cool
     */
-    font-family: var(--scary-font);
+    font-family: var(--sweet-font);
 }
 
 
